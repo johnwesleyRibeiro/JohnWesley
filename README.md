@@ -1,8 +1,8 @@
-# Hello, Me Chamo John Wesley
+# Hello, sou o John Wesley
 
-Apaixonado por tecnologia, e pro player de Counter Striker Global Offensive nas horas vagas.
+:point_right:Apaixonado por tecnologia, e pro player de Counter Striker Global Offensive nas horas vagas.
 
-Sou Desenvolvedor Frontend JR.
+:man_technologist: Sou Desenvolvedor Frontend JR.
 
 >### Skills
 > 1. HTML
